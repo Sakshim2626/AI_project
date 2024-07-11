@@ -1,5 +1,6 @@
-# Note Please:
-Before using any other file you have to run the Studend recommendation notebook to get model.pkl and scaler.pkl.
+**Education and Career Recommendation System**
+
+I made this Education Recommendation System or Studies Recommendation System using Python and Machine Learning. This system will help the students a lot to choose their career according to their marks.
 
 # Dataset Description:
 
